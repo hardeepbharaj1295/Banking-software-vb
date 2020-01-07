@@ -1,0 +1,464 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BankingSoftware
+</name>
+</assembly>
+<members>
+<member name="T:BankingSoftware.bankDataSet10.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet10.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet10.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet10">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet10TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet13.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet13.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet13.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet13">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet13TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet16.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet16.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet16.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet16">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet16TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.atm1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.empDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.interestDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.managerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.transDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.atm1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.empRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.interestRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.managerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.transRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.atm1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.empRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.interestRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.managerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3.transRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3TableAdapters.atm1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3TableAdapters.empTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3TableAdapters.interestTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3TableAdapters.managerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet3TableAdapters.transTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet6.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet6.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet6.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet6TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet9.transDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet9.transRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet9.transRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet9">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet9TableAdapters.transTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet12.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet12.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet12.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet12">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet12TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet15.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet15.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet15.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet15">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet15TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet2.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet2.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet2.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet2TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet5.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet5.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet5.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet5TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet8.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet8.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet8.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet8TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet.custinfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet.custinfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet.custinfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSetTableAdapters.custinfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet11.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet11.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet11.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet11">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet11TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet14.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet14.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet14.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet14">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet14TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet17.transDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet17.transRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet17.transRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet17">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet17TableAdapters.transTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet1.empDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet1.empRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet1.empRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet1TableAdapters.empTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet4.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet4.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet4.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet4TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet7.cust1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet7.cust1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet7.cust1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BankingSoftware.bankDataSet7TableAdapters.cust1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:BankingSoftware.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BankingSoftware.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:BankingSoftware.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

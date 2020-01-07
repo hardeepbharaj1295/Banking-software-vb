@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BankingSoftware">
+</Property><Property Name="Solution File" Value="F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\BankingSoftware.sln">
+</Property><Property Name="Date" Value="Sunday, January 30, 2011">
+</Property><Property Name="Time" Value="0:44 AM">
+</Property></Properties><Event ErrorLevel="0" Project="BankingSoftware" Source="BankingSoftware.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BankingSoftware" Source="BankingSoftware.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="BankingSoftware.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BankingSoftware.sln" Description="Converted">
+</Event></UpgradeLog>

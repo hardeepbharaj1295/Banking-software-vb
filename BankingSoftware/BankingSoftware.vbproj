@@ -1,0 +1,916 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C75D4582-5291-4F3D-B21E-5BAB9CA7B9F4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BankingSoftware.My.MyApplication</StartupObject>
+    <RootNamespace>BankingSoftware</RootNamespace>
+    <AssemblyName>BankingSoftware</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>9.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>5FA6D58EADD76DCEC39FBC645A97D5ACAF967F87</ManifestCertificateThumbprint>
+    <ManifestKeyFile>BankingSoftware_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>http://localhost/BankingSoftware/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BankingSoftware.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BankingSoftware.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addingform.Designer.vb">
+      <DependentUpon>addingform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addingform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Addstaff.Designer.vb">
+      <DependentUpon>Addstaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Addstaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminreport.Designer.vb">
+      <DependentUpon>adminreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="areport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>areport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bankDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet10.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet11.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet12.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet13.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet14.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet15.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet16.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet17.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet17.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet5.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet6.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet7.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet8.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet9.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BankPolicy.Designer.vb">
+      <DependentUpon>BankPolicy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BankPolicy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cust1.Designer.vb">
+      <DependentUpon>cust1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cust1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cust2.Designer.vb">
+      <DependentUpon>cust2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cust2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cust3.Designer.vb">
+      <DependentUpon>cust3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cust3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cust4.Designer.vb">
+      <DependentUpon>cust4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cust4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cust5.Designer.vb">
+      <DependentUpon>cust5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cust5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deletestaff.Designer.vb">
+      <DependentUpon>deletestaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="deletestaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="errorform.Designer.vb">
+      <DependentUpon>errorform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="errorform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Findstaff.Designer.vb">
+      <DependentUpon>Findstaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Findstaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intrestform.Designer.vb">
+      <DependentUpon>Intrestform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Intrestform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loan form.Designer.vb">
+      <DependentUpon>loan form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loan form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loan form2.Designer.vb">
+      <DependentUpon>Loan form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loan form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="male.Designer.vb">
+      <DependentUpon>male.vb</DependentUpon>
+    </Compile>
+    <Compile Include="male.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="male2.Designer.vb">
+      <DependentUpon>male2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="male2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerMDI.Designer.vb">
+      <DependentUpon>ManagerMDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerMDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mngrLogin.Designer.vb">
+      <DependentUpon>mngrLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mngrLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pickform.Designer.vb">
+      <DependentUpon>pickform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pickform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report1.Designer.vb">
+      <DependentUpon>report1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report2.Designer.vb">
+      <DependentUpon>report2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report3.Designer.vb">
+      <DependentUpon>report3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saving Intelligency.Designer.vb">
+      <DependentUpon>Saving Intelligency.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Saving Intelligency.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saving Intelligency2.Designer.vb">
+      <DependentUpon>Saving Intelligency2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Saving Intelligency2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saving Intelligency3.Designer.vb">
+      <DependentUpon>Saving Intelligency3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Saving Intelligency3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowBalance.Designer.vb">
+      <DependentUpon>ShowBalance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShowBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff1.Designer.vb">
+      <DependentUpon>staff1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staff1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stafflogin.Designer.vb">
+      <DependentUpon>stafflogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stafflogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffmdi.Designer.vb">
+      <DependentUpon>staffmdi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staffmdi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trans.Designer.vb">
+      <DependentUpon>trans.vb</DependentUpon>
+    </Compile>
+    <Compile Include="trans.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transactionreport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>transactionreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transection.Designer.vb">
+      <DependentUpon>transection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transferform.Designer.vb">
+      <DependentUpon>transferform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transferform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Updatestaff.Designer.vb">
+      <DependentUpon>Updatestaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Updatestaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome.Designer.vb">
+      <DependentUpon>welcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="welcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="women p3.Designer.vb">
+      <DependentUpon>women p3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="women p3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="women policy.Designer.vb">
+      <DependentUpon>women policy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="women policy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="womenp4.Designer.vb">
+      <DependentUpon>womenp4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="womenp4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="womenpolicy2.Designer.vb">
+      <DependentUpon>womenpolicy2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="womenpolicy2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="addingform.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>addingform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Addstaff.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Addstaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminreport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>adminreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="areport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>areport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankPolicy.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BankPolicy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cust1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cust1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cust2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cust2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cust3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cust3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cust4.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cust4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cust5.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cust5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deletestaff.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>deletestaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="errorform.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>errorform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Findstaff.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Findstaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Intrestform.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Intrestform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loan form.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>loan form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loan form2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Loan form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="male.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>male.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="male2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>male2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerMDI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManagerMDI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mngrLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>mngrLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pickform.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>pickform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>report1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>report2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>report3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saving Intelligency.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Saving Intelligency.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saving Intelligency2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Saving Intelligency2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saving Intelligency3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Saving Intelligency3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowBalance.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShowBalance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>staff1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stafflogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>stafflogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffmdi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>staffmdi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trans.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>trans.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transactionreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>transactionreport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transection.resx">
+      <DependentUpon>transection.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transferform.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>transferform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Updatestaff.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Updatestaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>welcome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="women p3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>women p3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="women policy.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>women policy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="womenp4.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>womenp4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="womenpolicy2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>womenpolicy2.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainpic.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loding.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="9.ico" />
+    <None Include="bankDataSet10.xsc">
+      <DependentUpon>bankDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet10.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet10.xss">
+      <DependentUpon>bankDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet11.xsc">
+      <DependentUpon>bankDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet11.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet11.xss">
+      <DependentUpon>bankDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet12.xsc">
+      <DependentUpon>bankDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet12.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet12.xss">
+      <DependentUpon>bankDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet13.xsc">
+      <DependentUpon>bankDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet13.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet13.xss">
+      <DependentUpon>bankDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet14.xsc">
+      <DependentUpon>bankDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet14.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet14.xss">
+      <DependentUpon>bankDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet15.xsc">
+      <DependentUpon>bankDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet15.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet15.xss">
+      <DependentUpon>bankDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet16.xsc">
+      <DependentUpon>bankDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet16.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet16.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet16.xss">
+      <DependentUpon>bankDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet17.xsc">
+      <DependentUpon>bankDataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet17.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet17.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet17.xss">
+      <DependentUpon>bankDataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet2.xsc">
+      <DependentUpon>bankDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet2.xss">
+      <DependentUpon>bankDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet3.xsc">
+      <DependentUpon>bankDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet3.xss">
+      <DependentUpon>bankDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet4.xsc">
+      <DependentUpon>bankDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet4.xss">
+      <DependentUpon>bankDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet5.xsc">
+      <DependentUpon>bankDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet5.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet5.xss">
+      <DependentUpon>bankDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet6.xsc">
+      <DependentUpon>bankDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet6.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet6.xss">
+      <DependentUpon>bankDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet7.xsc">
+      <DependentUpon>bankDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet7.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet7.xss">
+      <DependentUpon>bankDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet8.xsc">
+      <DependentUpon>bankDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet8.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet8.xss">
+      <DependentUpon>bankDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet9.xsc">
+      <DependentUpon>bankDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet9.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet9.xss">
+      <DependentUpon>bankDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\bank_dc.jpg" />
+    <None Include="Resources\ANZ-Bank-counter1.jpg" />
+    <None Include="Resources\sta.jpg" />
+    <None Include="Resources\ANZ-Bank-counter.jpg" />
+    <None Include="Resources\money-exchange-in-goa.jpg" />
+    <None Include="Resources\100nn.jpg" />
+    <None Include="Resources\10005000.jpg" />
+    <None Include="Resources\1000nt.jpg" />
+    <None Include="Resources\processing.bmp" />
+    <None Include="Resources\moneyPix.JPG" />
+    <None Include="Resources\a5.bmp" />
+    <None Include="Resources\a3.bmp" />
+    <None Include="Resources\a4.bmp" />
+    <None Include="Resources\a1.bmp" />
+    <None Include="Resources\2.bmp" />
+    <None Include="Resources\closemy.gif" />
+    <None Include="app.config" />
+    <None Include="bankDataSet.xsc">
+      <DependentUpon>bankDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet.xss">
+      <DependentUpon>bankDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet1.xsc">
+      <DependentUpon>bankDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet1.xss">
+      <DependentUpon>bankDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BankingSoftware_TemporaryKey.pfx" />
+    <None Include="Resources\Login-Button.gif" />
+    <None Include="Resources\login_img.gif" />
+    <None Include="Resources\ggg1.JPG" />
+    <None Include="Resources\ggg.JPG" />
+    <None Include="Resources\gamla.JPG" />
+    <None Include="Resources\wel.bmp" />
+    <None Include="Resources\welcome.gif" />
+    <None Include="Resources\title.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

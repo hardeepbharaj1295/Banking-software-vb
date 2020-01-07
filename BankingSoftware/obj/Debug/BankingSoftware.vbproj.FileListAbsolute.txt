@@ -1,0 +1,276 @@
+D:\backup\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.exe.config
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.exe
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.xml
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.pdb
+D:\backup\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.exe.manifest
+D:\backup\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.application
+D:\backup\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.exe
+D:\backup\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.pdb
+D:\backup\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.xml
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\ResolveAssemblyReference.cache
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.addingform.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Addstaff.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.adminreport.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.BankPolicy.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.addcust.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.cust2.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.cust3.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.updatecust.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.atmform.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.deletestaff.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.errorform.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Findstaff.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Form1.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Intrestform.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.loan_form.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Loan_form2.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.male.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.male2.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.ManagerMDI.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.mngrLogin.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Resources.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.pickform.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.report1.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.report2.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.report3.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency2.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency3.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.ShowBalance.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.staff1.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.stafflogin.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.staffmdi.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.trans.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.transferform.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Updatestaff.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.welcome.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.womenp3.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.women_policy.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.womenp4.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.womenpolicy2.resources
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.vbproj.GenerateResource.Cache
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.exe.manifest
+D:\backup\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.application
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.exe.config
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.exe
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.xml
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.pdb
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.exe.manifest
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.application
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.exe
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.pdb
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\bin\Debug\BankingSoftware.xml
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\ResolveAssemblyReference.cache
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.addingform.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Addstaff.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.adminreport.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.BankPolicy.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.addcust.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.cust2.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.cust3.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.updatecust.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.atmform.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.deletestaff.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.errorform.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Findstaff.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Form1.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Intrestform.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.loan_form.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Loan_form2.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.male.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.male2.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.ManagerMDI.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.mngrLogin.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Resources.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.pickform.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.report1.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.report2.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.report3.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency2.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency3.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.ShowBalance.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.staff1.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.stafflogin.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.staffmdi.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.trans.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.transferform.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.Updatestaff.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.welcome.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.womenp3.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.women_policy.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.womenp4.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.womenpolicy2.resources
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.vbproj.GenerateResource.Cache
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.exe.manifest
+F:\projects 2009\Banking software\BankingSoftware\BankingSoftware\obj\Debug\BankingSoftware.application
+C:\Users\arbind\Desktop\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe.config
+C:\Users\arbind\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.exe
+C:\Users\arbind\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.xml
+C:\Users\arbind\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.pdb
+C:\Documents and Settings\node43\Desktop\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe.config
+C:\Documents and Settings\node43\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.exe
+C:\Documents and Settings\node43\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.xml
+C:\Documents and Settings\node43\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.pdb
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe.config
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.exe
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.xml
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.pdb
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe.manifest
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.application
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.pdb
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.xml
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.addingform.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Addstaff.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.adminreport.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.BankPolicy.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.addcust.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.cust2.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.cust3.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.updatecust.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.atmform.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.deletestaff.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.errorform.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Findstaff.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Form1.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Intrestform.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.loan_form.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Loan_form2.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.male.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.male2.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.ManagerMDI.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.mngrLogin.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Resources.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.pickform.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.report1.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.report2.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.report3.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency2.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency3.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.ShowBalance.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.staff1.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.stafflogin.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.staffmdi.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.trans.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.transferform.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Updatestaff.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.welcome.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.womenp3.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.women_policy.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.womenp4.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.womenpolicy2.resources
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.exe.manifest
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.application
+C:\Documents and Settings\Ricky\Desktop\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.transection.resources
+E:\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe.config
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.exe
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.xml
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.pdb
+E:\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe.manifest
+E:\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.application
+E:\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe
+E:\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.pdb
+E:\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.xml
+E:\Final Bank Software\BankingSoftware\obj\Debug\ResolveAssemblyReference.cache
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.addingform.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Addstaff.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.adminreport.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.BankPolicy.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.addcust.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.cust2.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.cust3.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.updatecust.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.atmform.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.deletestaff.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.errorform.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Findstaff.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Form1.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Intrestform.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.loan_form.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Loan_form2.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.male.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.male2.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.ManagerMDI.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.mngrLogin.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Resources.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.pickform.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.report1.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.report2.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.report3.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency2.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency3.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.ShowBalance.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.staff1.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.stafflogin.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.staffmdi.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.trans.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.transection.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.transferform.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Updatestaff.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.welcome.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.womenp3.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.women_policy.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.womenp4.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.womenpolicy2.resources
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.vbproj.GenerateResource.Cache
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.exe.manifest
+E:\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.application
+D:\project\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe.config
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.exe
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.xml
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.pdb
+D:\project\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe.manifest
+D:\project\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.application
+D:\project\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.exe
+D:\project\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.pdb
+D:\project\Final Bank Software\BankingSoftware\bin\Debug\BankingSoftware.xml
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\ResolveAssemblyReference.cache
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.addingform.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Addstaff.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.adminreport.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.BankPolicy.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.addcust.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.cust2.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.cust3.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.updatecust.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.atmform.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.deletestaff.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.errorform.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Findstaff.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Form1.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Intrestform.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.loan_form.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Loan_form2.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.male.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.male2.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.ManagerMDI.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.mngrLogin.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Resources.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.pickform.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.report1.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.report2.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.report3.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency2.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Saving_Intelligency3.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.ShowBalance.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.staff1.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.stafflogin.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.staffmdi.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.trans.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.transection.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.transferform.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.Updatestaff.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.welcome.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.womenp3.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.women_policy.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.womenp4.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.womenpolicy2.resources
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.vbproj.GenerateResource.Cache
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.exe.manifest
+D:\project\Final Bank Software\BankingSoftware\obj\Debug\BankingSoftware.application
